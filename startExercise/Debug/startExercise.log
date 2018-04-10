@@ -1,0 +1,6 @@
+﻿  Program.cpp
+d:\liem\project\startexercise\startexercise\profit.h(29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\liem\project\startexercise\startexercise\profit.h(40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\liem\project\startexercise\startexercise\circle.h(11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\liem\project\startexercise\startexercise\circle.h(12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  startExercise.vcxproj -> D:\LIEM\Project\startExercise\Debug\startExercise.exe
